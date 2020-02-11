@@ -67,6 +67,10 @@ p {padding: 10px 0;}
       display: block;
     }
 
+    h1 {
+        text-align: center;
+    }
+
     .item-box {
         margin-bottom: 50px
     }
